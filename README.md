@@ -47,3 +47,5 @@ System Analysis and Design practices.
 查询结果:
 
 ![](http://o7s15t2uh.bkt.clouddn.com/System_A-D-GuitarV1-007.png)
+
+>其他查询方式省略
