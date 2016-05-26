@@ -8,9 +8,9 @@
 </head>
 <body>
 <form action="doSearch" method="post">
-
-
-
+	<p>请输入：系列、作者、类型、前后木材等关键词查询：
+	<input type="text" name="info" />
+	</p>
 	<input type="submit" value="查询" />
 </form>
 
