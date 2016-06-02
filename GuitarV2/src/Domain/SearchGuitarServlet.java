@@ -1,5 +1,4 @@
-package com.guitarshop_v2.model;
-
+package Domain;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;

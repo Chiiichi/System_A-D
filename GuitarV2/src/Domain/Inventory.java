@@ -1,5 +1,4 @@
-package com.guitarshop_v2.model;
-
+package Domain;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

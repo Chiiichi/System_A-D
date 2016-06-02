@@ -1,4 +1,4 @@
-package com.guitarshop_v2.model;
+package Domain;
 
 public class GuitarSpec {
 	private builder builder;
