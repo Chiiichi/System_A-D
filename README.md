@@ -13,4 +13,4 @@ System Analysis and Design practices.
 
 ### 文件结构 ###
 
-![Duck](http://o7s15t2uh.bkt.clouddn.com/System_A-D-Duck-001.png)
+![Duck](http://o7s15t2uh.bkt.clouddn.com/System_A-D-Duck.png)
