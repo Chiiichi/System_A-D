@@ -1,6 +1,7 @@
 package dao;
 
 public class dataAccess {
+	
 	private static String db = "sqlite";
 
 	public static IGuitar createGuitarDao() {
@@ -16,6 +17,7 @@ public class dataAccess {
 		return result;
 	}
 
+	
 	public static IUser createUserDao() {
 		IUser ret = null;
 		switch (db) {
