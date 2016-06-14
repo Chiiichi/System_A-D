@@ -20,3 +20,13 @@ System Analysis and Design practices.
 添加结果：
 
 ![添加结果](http://o7s15t2uh.bkt.clouddn.com/System_A-D-GuitarV3-002.png)
+
+### 查询吉他 ###
+
+![查询吉他](http://o7s15t2uh.bkt.clouddn.com/System_A-D-GuitarV3-003.png)
+
+查询结果;
+
+![查询吉他](http://o7s15t2uh.bkt.clouddn.com/System_A-D-GuitarV3-004.png)
+
+
